@@ -58,14 +58,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>mod4_solution/script.js at master · laureenpe/mod4_solution</title>
-    <meta name="description" content="Module 4 Coding Assignment. Contribute to laureenpe/mod4_solution development by creating an account on GitHub.">
+  <title>Coursera-HTML-CSS-Javascript-for-Web-Developers/script.js at master · kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers</title>
+    <meta name="description" content="This repository is created for submitting the solutions of the assignments of the course in Coursera. - Coursera-HTML-CSS-Javascript-for-Web-Developers/script.js at master · kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/994d97e7a173f270d13309c30ffe6c1ee0732e51bb0fbc670ffdabb36463c43c/laureenpe/mod4_solution" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="mod4_solution/script.js at master · laureenpe/mod4_solution" /><meta name="twitter:description" content="Module 4 Coding Assignment. Contribute to laureenpe/mod4_solution development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/994d97e7a173f270d13309c30ffe6c1ee0732e51bb0fbc670ffdabb36463c43c/laureenpe/mod4_solution" /><meta property="og:image:alt" content="Module 4 Coding Assignment. Contribute to laureenpe/mod4_solution development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="mod4_solution/script.js at master · laureenpe/mod4_solution" /><meta property="og:url" content="https://github.com/laureenpe/mod4_solution" /><meta property="og:description" content="Module 4 Coding Assignment. Contribute to laureenpe/mod4_solution development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/cb99048f9062a8c9639a26da396a09ac8d0ec6addb48f2e5cc8f7284b6947f1f/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Coursera-HTML-CSS-Javascript-for-Web-Developers/script.js at master · kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers" /><meta name="twitter:description" content="This repository is created for submitting the solutions of the assignments of the course in Coursera. - Coursera-HTML-CSS-Javascript-for-Web-Developers/script.js at master · kr-viku/Coursera-HTML-C..." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/cb99048f9062a8c9639a26da396a09ac8d0ec6addb48f2e5cc8f7284b6947f1f/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers" /><meta property="og:image:alt" content="This repository is created for submitting the solutions of the assignments of the course in Coursera. - Coursera-HTML-CSS-Javascript-for-Web-Developers/script.js at master · kr-viku/Coursera-HTML-C..." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Coursera-HTML-CSS-Javascript-for-Web-Developers/script.js at master · kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers" /><meta property="og:url" content="https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers" /><meta property="og:description" content="This repository is created for submitting the solutions of the assignments of the course in Coursera. - Coursera-HTML-CSS-Javascript-for-Web-Developers/script.js at master · kr-viku/Coursera-HTML-C..." />
     
 
 
@@ -73,14 +73,14 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/102240009/ws?session=eyJ2IjoiVjMiLCJ1IjoxMDIyNDAwMDksInMiOjg1MjM5ODc5NywiYyI6MTE1NDYwNzYyMywidCI6MTY1MDk3Njg4Nn0=--e4f55431af8fba78492ad5dd0998575b7205dc979e57dfd9f459e679a40a18be" data-refresh-url="/_alive" data-session-id="c2733eb26894a2146d34e5fcef14cfe1fd816c0e10d6abd3ae099beaa6d8c3e1">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/102240009/ws?session=eyJ2IjoiVjMiLCJ1IjoxMDIyNDAwMDksInMiOjg1MjM5ODc5NywiYyI6MjAxOTU4NDkxNSwidCI6MTY1MDk3NzQ3OH0=--8947791a3713df47040f36d5ec243107b416e24e996dc1d22ac4edbc49c796b1" data-refresh-url="/_alive" data-session-id="c2733eb26894a2146d34e5fcef14cfe1fd816c0e10d6abd3ae099beaa6d8c3e1">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b98ccfd9236e.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
 
-  <meta name="request-id" content="FB6D:D964:41E872A:466EF9F:6267E872" data-pjax-transient="true" /><meta name="html-safe-nonce" content="976fa23b7d5096bcf4608105d62045673244c513557568d860fbfc039fb4c140" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9sYXVyZWVucGUvbW9kNF9zb2x1dGlvbi90cmVlL21hc3Rlci9qcyIsInJlcXVlc3RfaWQiOiJGQjZEOkQ5NjQ6NDFFODcyQTo0NjZFRjlGOjYyNjdFODcyIiwidmlzaXRvcl9pZCI6IjQ4NTg5MzQ2MTQ3MjIxNzcwOCIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="9f6120a37f31ceabb5b9572730c7f1d171ef88194de14d539ef7b4cffa6ef4b8" data-pjax-transient="true" />
+  <meta name="request-id" content="FCBA:E907:C28D02:CD03F6:6267EAC0" data-pjax-transient="true" /><meta name="html-safe-nonce" content="976fa23b7d5096bcf4608105d62045673244c513557568d860fbfc039fb4c140" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9rci12aWt1L0NvdXJzZXJhLUhUTUwtQ1NTLUphdmFzY3JpcHQtZm9yLVdlYi1EZXZlbG9wZXJzL3RyZWUvbWFzdGVyL21vZHVsZTQtc29sdXRpb24vanMiLCJyZXF1ZXN0X2lkIjoiRkNCQTpFOTA3OkMyOEQwMjpDRDAzRjY6NjI2N0VBQzAiLCJ2aXNpdG9yX2lkIjoiNDg1ODkzNDYxNDcyMjE3NzA4IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="408f8ae0a596ff259473e2ef83ca911070ffed9c23c3b2845a332e5a65eb607f" data-pjax-transient="true" />
 
-    <meta name="hovercard-subject-tag" content="repository:124092879" data-pjax-transient>
+    <meta name="hovercard-subject-tag" content="repository:270012826" data-pjax-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code" data-pjax-transient="true" />
@@ -114,7 +114,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="ZTg5Y2RmMWQ2YmVhZmFmZDFjMWU0NDQ4NTcwOGY1ZTAzZTM1OGUyYjUyZGRjYmE2MmEwYzk2YWJiYTljN2ZkMXx7InJlbW90ZV9hZGRyZXNzIjoiMzEuMjIzLjQ4LjE5MyIsInJlcXVlc3RfaWQiOiJGQjZEOkQ5NjQ6NDFFODcyQTo0NjZFRjlGOjYyNjdFODcyIiwidGltZXN0YW1wIjoxNjUwOTc2ODg2LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+      <meta name="js-proxy-site-detection-payload" content="MGM3NjVkMzNlZjIwZjNiZDQ2ZTYyZWY0MDVjMjM0ZDI3YzI2NTM1YTE1ZGI1ZDEyZGYyZTE2MWFlNzRjOTY3ZXx7InJlbW90ZV9hZGRyZXNzIjoiMzEuMjIzLjQ4LjE5MyIsInJlcXVlc3RfaWQiOiJGQ0JBOkU5MDc6QzI4RDAyOkNEMDNGNjo2MjY3RUFDMCIsInRpbWVzdGFtcCI6MTY1MDk3NzQ3OCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,MARKETPLACE_PENDING_INSTALLATIONS,PRESENCE_IDLE">
 
@@ -127,13 +127,13 @@
   
 
     
-  <meta name="go-import" content="github.com/laureenpe/mod4_solution git https://github.com/laureenpe/mod4_solution.git">
+  <meta name="go-import" content="github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers git https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers.git">
 
-  <meta name="octolytics-dimension-user_id" content="23554942" /><meta name="octolytics-dimension-user_login" content="laureenpe" /><meta name="octolytics-dimension-repository_id" content="124092879" /><meta name="octolytics-dimension-repository_nwo" content="laureenpe/mod4_solution" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="124092879" /><meta name="octolytics-dimension-repository_network_root_nwo" content="laureenpe/mod4_solution" />
+  <meta name="octolytics-dimension-user_id" content="45507132" /><meta name="octolytics-dimension-user_login" content="kr-viku" /><meta name="octolytics-dimension-repository_id" content="270012826" /><meta name="octolytics-dimension-repository_nwo" content="kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="270012826" /><meta name="octolytics-dimension-repository_network_root_nwo" content="kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers" />
 
 
 
-    <link rel="canonical" href="https://github.com/laureenpe/mod4_solution/blob/master/js/script.js" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/blob/master/module4-solution/js/script.js" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -202,7 +202,7 @@
 <div class="header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="124092879" data-scoped-search-url="/laureenpe/mod4_solution/search" data-owner-scoped-search-url="/users/laureenpe/search" data-unscoped-search-url="/search" data-turbo="false" action="/laureenpe/mod4_solution/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="270012826" data-scoped-search-url="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/search" data-owner-scoped-search-url="/users/kr-viku/search" data-unscoped-search-url="/search" data-turbo="false" action="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/search" accept-charset="UTF-8" method="get">
       <label class="form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -223,7 +223,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="oHEVEx7NtrjsgddvePwQUJuKUPLRqNsOzGEKcyiQEKQ7XqPSYWJd7cnTvatDniz6erD3fq-7YAfZtGyjXqP-CQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="1aiAJ2kv56sv581nZCWZK6yH1FpqJvnSSDwkRzBYdfVOhzbmFoAM_gq1p6NfR6WBTb1z1hQ1Qttd6UKXRmubWA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -422,7 +422,7 @@
 
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-turbo="false" data-selected-links="/codespaces /codespaces" href="/codespaces">Codespaces</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Rootnboot&quot;,&quot;originating_url&quot;:&quot;https://github.com/laureenpe/mod4_solution/blob/master/js/script.js&quot;,&quot;user_id&quot;:102240009}}" data-hydro-click-hmac="74fe980d6564d2e50e05ec7777ca677dfce6a0f9d13591353c764cf00ba10e0a" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Rootnboot&quot;,&quot;originating_url&quot;:&quot;https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/blob/master/module4-solution/js/script.js&quot;,&quot;user_id&quot;:102240009}}" data-hydro-click-hmac="9d66cae4850302bec2a8853e82607b3fe80ac5fa260f77d74d51d60addac2675" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -430,7 +430,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/102240009?s=40&amp;v=4" width="20" height="20" alt="@Rootnboot" />
       Rootnboot
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ho-krJqtLF1zSF5ONZZ13biHfJcLWoLpgBO1tKpbN8dW1gJ6Zd12cn8dImoFlTWIlDNwdeaAVTQT08vzAi_WQw" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wvCB0wbwxbTw_qiLwvRfx5_fS7Ta-imxSpdJzFgjcxUSqScF-YCfm_yr1K_y9x-Ss2tHVjcg_mzZVzeL8FeSkQ" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -469,7 +469,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTAyMjQwMDA5IiwidCI6MTY1MDk3Njg4Nn0=--cc6b9729e4ec23706187c9258ca0b8b2eafc4b35c3a0453f14eda791d1fb5f36">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTAyMjQwMDA5IiwidCI6MTY1MDk3NzQ3OH0=--a8988e36b2674e86bc5fd67923c9de3bdb9c034174934ed8bbe50e1d353e1f56">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -606,7 +606,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      data-return-to=/laureenpe/mod4_solution/blob/master/js/script.js
+      data-return-to=/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/blob/master/module4-solution/js/script.js
       data-user-id="102240009"
       data-activation-hotkey="Mod+k,Mod+Alt+k"
       data-command-mode-hotkey="Mod+Shift+k"
@@ -619,10 +619,10 @@
 
 
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="GXudKaAm6wXIIwIr0RAhGfxZ3OpC5SwY5c-DTi5kBnqa9sQXluiKC-kbfe2ty4x1zPtOnnoM4zIwK1UIxlwcJQ" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="Li90HMs1ItZF0m2AJdh3cP-RGaQLMQGlvmHEpUU9obetoi0i_ftD2GTqEkZZA9oczzOL0DPYzo9rhRLjrQW76A" data-csrf="true" class="js-color-mode-csrf" />
 
       <input type="hidden" name="tab-size-path" id="tab-size-path" value="/settings/appearance/tab_size" class="js-tab-size-path" autocomplete="off" />
-      <input type="hidden" value="TZ6w7XgapGpbsb3UxvB4013Ic_VIk_9eOG-iEeLq6I7XQ-BWpPXD5oNNJh1yDoboVCtFwbObuDFbPBYjvVYY_A" data-csrf="true" class="js-tab-size-csrf" />
+      <input type="hidden" value="BCayE_Y90ihHfWAIjpDtn5GCdTUY0fzDAPDpWqA9FbGe--KoKtK1pJ-B-8E6bhOkmGFDAePZu6xjo11o_4Hlww" data-csrf="true" class="js-tab-size-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -708,23 +708,23 @@
         <command-palette-scope >
           <div data-target="command-palette-scope.placeholder" hidden class="color-fg-subtle">/&nbsp;&nbsp;<span class="text-semibold color-fg-default">...</span>&nbsp;&nbsp;/&nbsp;&nbsp;</div>
               <command-palette-token
-                data-text="laureenpe"
-                data-id="MDQ6VXNlcjIzNTU0OTQy"
+                data-text="kr-viku"
+                data-id="MDQ6VXNlcjQ1NTA3MTMy"
                 data-type="owner"
-                data-value="laureenpe"
+                data-value="kr-viku"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >laureenpe<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >kr-viku<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
               <command-palette-token
-                data-text="mod4_solution"
-                data-id="MDEwOlJlcG9zaXRvcnkxMjQwOTI4Nzk="
+                data-text="Coursera-HTML-CSS-Javascript-for-Web-Developers"
+                data-id="MDEwOlJlcG9zaXRvcnkyNzAwMTI4MjY="
                 data-type="repository"
-                data-value="mod4_solution"
+                data-value="Coursera-HTML-CSS-Javascript-for-Web-Developers"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >mod4_solution<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >Coursera-HTML-CSS...<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
         </command-palette-scope>
         <div class="command-palette-input-group flex-1 form-control border-0 box-shadow-none" style="z-index: 0">
           <div class="command-palette-typeahead position-absolute d-flex flex-items-center Truncate">
@@ -1477,7 +1477,7 @@
 </div>
 
         <command-palette-pjax-metadata hidden class="js-command-palette-pjax-metadata" data-pjax-replace id="command-palette-pjax-metadata"
-  data-default-scope-id="MDEwOlJlcG9zaXRvcnkxMjQwOTI4Nzk="
+  data-default-scope-id="MDEwOlJlcG9zaXRvcnkyNzAwMTI4MjY="
   data-default-scope-type="Repository"
 >
 </command-palette-pjax-metadata>
@@ -1510,11 +1510,11 @@
     <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
 </svg>
   <span class="author flex-self-stretch" itemprop="author">
-    <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/laureenpe/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/laureenpe">laureenpe</a>
+    <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/kr-viku/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/kr-viku">kr-viku</a>
   </span>
   <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
   <strong itemprop="name" class="mr-2 flex-self-stretch">
-    <a data-pjax="#repo-content-pjax-container" href="/laureenpe/mod4_solution">mod4_solution</a>
+    <a data-pjax="#repo-content-pjax-container" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers">Coursera-HTML-CSS-Javascript-for-Web-Developers</a>
   </strong>
 
   <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
@@ -1537,7 +1537,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:124092879,&quot;originating_url&quot;:&quot;https://github.com/laureenpe/mod4_solution/blob/master/js/script.js&quot;,&quot;user_id&quot;:102240009}}" data-hydro-click-hmac="1a390b1103fce6c0a724543f5eb2e08b9bf5bd8e87e65c786243467d28c4df2e" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:270012826,&quot;originating_url&quot;:&quot;https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/blob/master/module4-solution/js/script.js&quot;,&quot;user_id&quot;:102240009}}" data-hydro-click-hmac="9e21b32b7b947c736487e47cb87c922b85283d443e1bd1d12463ccaaf8365d12" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
               
@@ -1569,7 +1569,7 @@
               Watch
             </span>
           </span>
-            <span id="repo-notifications-counter" data-target="notifications-list-subscription-form.socialCount" data-pjax-replace="true" title="0" data-view-component="true" class="Counter">0</span>
+            <span id="repo-notifications-counter" data-target="notifications-list-subscription-form.socialCount" data-pjax-replace="true" title="2" data-view-component="true" class="Counter">2</span>
           <span class="dropdown-caret"></span>
   
 </summary>
@@ -1590,9 +1590,9 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DlnXCkI-4T6_7vh6FixWef7nWOMPFDEzGmnVKf5WNmxt_U8LygskcCVqBrsnr_dy-XlfAIsmj7yZCtlRvoOPMA" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ipNk5TwxOCFfRsLQusp7pcAZr4-chw0ltO4Gn6IWnYTpN_zktAT9b8XCPBGLSdqux4eobBi1s6o3jQrn4sMk2A" autocomplete="off" />
 
-                <input type="hidden" name="repository_id" value="124092879">
+                <input type="hidden" name="repository_id" value="270012826">
 
                 <button
                   type="submit"
@@ -1718,9 +1718,9 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="nMMpq0LRQi4yU743UOmEuJAcEy6QjMM1f11vzmt-liv_Z7GqyuSHYKjXQPZhaiWzl4IUzRS-fbr8PmO2K6svdw" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="FsVb_-V1uRBdamAjyi_7OwpOfrU_GRbfbwI_9gFsQg91YcP-bUB8XsfunuL7rFowDdB5VrsrqFDsYTOOQbn7Uw" autocomplete="off" />
 
-              <input type="hidden" name="repository_id" value="124092879">
+              <input type="hidden" name="repository_id" value="270012826">
 
               <header class="d-sm-none SelectMenu-header pb-0 border-bottom-0 px-2 px-sm-3">
                 <h1 class="f3 SelectMenu-title d-inline-flex">
@@ -1865,10 +1865,10 @@
   </li>
 
   <li>
-            <a href="/laureenpe/mod4_solution/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:124092879,&quot;originating_url&quot;:&quot;https://github.com/laureenpe/mod4_solution/blob/master/js/script.js&quot;,&quot;user_id&quot;:102240009}}" data-hydro-click-hmac="e8faa6f265491fc5344579169ceea6a3584e99976e940ac888c107aba01c49b3" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of laureenpe/mod4_solution" data-view-component="true" class="btn-sm btn float-left">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+            <a href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:270012826,&quot;originating_url&quot;:&quot;https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/blob/master/module4-solution/js/script.js&quot;,&quot;user_id&quot;:102240009}}" data-hydro-click-hmac="fe7c870f1f40687f2654532712837a42fba055badcad733c7d1eb7e0a36c294b" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers" data-view-component="true" class="btn-sm btn float-left">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
-          <span id="repo-network-counter" data-pjax-replace="true" title="8" data-view-component="true" class="Counter">8</span>
+          <span id="repo-network-counter" data-pjax-replace="true" title="29" data-view-component="true" class="Counter">29</span>
   
 </a>
   </li>
@@ -1894,26 +1894,26 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/laureenpe/mod4_solution/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Gn9_R4tHC8nKXxgxrTACG-775h1Zel9uyABjSPSzU93e3kKYlBfQUIFwha1AraBeP7DwypA_oASdPhTjoDWxQA" autocomplete="off" />
-        <input type="hidden" value="sNiOuw43xBGf_EVdzKd9xZRxj0ZgunhZyEWqzfyGD250ebNkEWcfiNTT2MEhOt-ARTqZkan_hzOde91mqADt8w" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5jb2jOYA8fj24Sks9Dl77rCejhdhHghbI4RpUvna83VvdyeO_vl2-WiCxvpfe4Od8qD0c7ziw5OZ4ZE3cJm5oA" autocomplete="off" />
+        <input type="hidden" value="faFd7qYIJhVS4L5gAZn_AV4KIRYcokth9mTSoDfItsn04IzsvvGhFMyDUbaq2wdyHDRbcsFegKlMASrFvov8HA" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:124092879,&quot;originating_url&quot;:&quot;https://github.com/laureenpe/mod4_solution/blob/master/js/script.js&quot;,&quot;user_id&quot;:102240009}}" data-hydro-click-hmac="900073242e28e0caf4eeecf74269faa4e6421cd60c4425c179f1272c834a7bd8" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:270012826,&quot;originating_url&quot;:&quot;https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/blob/master/module4-solution/js/script.js&quot;,&quot;user_id&quot;:102240009}}" data-hydro-click-hmac="78478683edf2f87ba1d74b726d6ef2c807bbb4d14106bc78af5c6de82f579523" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
-</span>          <span id="repo-stars-counter-unstar" aria-label="1 user starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="1" data-view-component="true" class="Counter js-social-count">1</span>
+</span>          <span id="repo-stars-counter-unstar" aria-label="9 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="9" data-view-component="true" class="Counter js-social-count">9</span>
   
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/laureenpe/mod4_solution/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ZgNCMUAAtRosmFLc2vm7XVXTbG3HAn0b9wT7fR17-vXxTGggxKqhrmChLCH8kElpL9DsaktyhIcnsTwFrP35nQ" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="z0DRV7VXgIWI3w0xAGg-9I0jI_4owybzhtRuWB5zZpidittluNOUrsC9l2I2t0DILMj84qcFEIkr-mfJKMdwsA" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:124092879,&quot;originating_url&quot;:&quot;https://github.com/laureenpe/mod4_solution/blob/master/js/script.js&quot;,&quot;user_id&quot;:102240009}}" data-hydro-click-hmac="c3329686087f175c68ba7491a4dc2db2dfc6d4a410e15fc73936f66e030c3639" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:270012826,&quot;originating_url&quot;:&quot;https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/blob/master/module4-solution/js/script.js&quot;,&quot;user_id&quot;:102240009}}" data-hydro-click-hmac="5ef5481e94f67853bb71b4784662b28b5d07593b1291d706bde1e4162074277c" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
-</span>          <span id="repo-stars-counter-star" aria-label="1 user starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="1" data-view-component="true" class="Counter js-social-count">1</span>
+</span>          <span id="repo-stars-counter-star" aria-label="9 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="9" data-view-component="true" class="Counter js-social-count">9</span>
   
 </button></form>
-      <details id="details-user-list-124092879" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+      <details id="details-user-list-270012826" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
       <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
 </svg>
@@ -1921,19 +1921,19 @@
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/laureenpe/mod4_solution/lists"
+      src="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/lists"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-137ee4">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-c19f29">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-137ee4"
+        id="filter-menu-c19f29"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1970,7 +1970,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/laureenpe/mod4_solution" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /laureenpe/mod4_solution" data-pjax="#repo-content-pjax-container" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers" data-pjax="#repo-content-pjax-container" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" aria-current="page" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
@@ -1982,7 +1982,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/laureenpe/mod4_solution/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /laureenpe/mod4_solution/issues" data-pjax="#repo-content-pjax-container" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/issues" data-pjax="#repo-content-pjax-container" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
@@ -1994,7 +1994,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/laureenpe/mod4_solution/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /laureenpe/mod4_solution/pulls" data-pjax="#repo-content-pjax-container" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/pulls" data-pjax="#repo-content-pjax-container" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
@@ -2006,7 +2006,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/laureenpe/mod4_solution/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /laureenpe/mod4_solution/actions" data-pjax="#repo-content-pjax-container" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Actions&quot;,&quot;action&quot;:&quot;clicked&quot;,&quot;label&quot;:&quot;ref_cta:Actions;ref_loc:navigation_helper&quot;}" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/actions" data-pjax="#repo-content-pjax-container" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Actions&quot;,&quot;action&quot;:&quot;clicked&quot;,&quot;label&quot;:&quot;ref_cta:Actions;ref_loc:navigation_helper&quot;}" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path>
@@ -2018,7 +2018,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/laureenpe/mod4_solution/projects?type=beta" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /laureenpe/mod4_solution/projects?type=beta" data-pjax="#repo-content-pjax-container" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="projects-tab" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/projects?type=beta" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/projects?type=beta" data-pjax="#repo-content-pjax-container" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v3.585a.746.746 0 010 .83v8.085A1.75 1.75 0 0114.25 16H6.309a.748.748 0 01-1.118 0H1.75A1.75 1.75 0 010 14.25V6.165a.746.746 0 010-.83V1.75zM1.5 6.5v7.75c0 .138.112.25.25.25H5v-8H1.5zM5 5H1.5V1.75a.25.25 0 01.25-.25H5V5zm1.5 1.5v8h7.75a.25.25 0 00.25-.25V6.5h-8zm8-1.5h-8V1.5h7.75a.25.25 0 01.25.25V5z"></path>
@@ -2030,7 +2030,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="wiki-tab" href="/laureenpe/mod4_solution/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /laureenpe/mod4_solution/wiki" data-pjax="#repo-content-pjax-container" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="wiki-tab" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/wiki" data-pjax="#repo-content-pjax-container" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path>
@@ -2042,18 +2042,18 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/laureenpe/mod4_solution/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /laureenpe/mod4_solution/security" data-pjax="#repo-content-pjax-container" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="security-tab" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/security" data-pjax="#repo-content-pjax-container" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path>
 </svg>
           <span data-content="Security">Security</span>
-            <include-fragment src="/laureenpe/mod4_solution/security/overall-count" accept="text/fragment+html"></include-fragment>
+            <include-fragment src="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/laureenpe/mod4_solution/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /laureenpe/mod4_solution/pulse" data-pjax="#repo-content-pjax-container" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/pulse" data-pjax="#repo-content-pjax-container" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path>
@@ -2077,35 +2077,35 @@
   
             <ul>
                 <li data-menu-item="i0code-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /laureenpe/mod4_solution" href="/laureenpe/mod4_solution">
+                  <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers">
                     Code
 </a>                </li>
                 <li data-menu-item="i1issues-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /laureenpe/mod4_solution/issues" href="/laureenpe/mod4_solution/issues">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/issues" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/issues">
                     Issues
 </a>                </li>
                 <li data-menu-item="i2pull-requests-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /laureenpe/mod4_solution/pulls" href="/laureenpe/mod4_solution/pulls">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/pulls" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/pulls">
                     Pull requests
 </a>                </li>
                 <li data-menu-item="i3actions-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /laureenpe/mod4_solution/actions" href="/laureenpe/mod4_solution/actions">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/actions" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/actions">
                     Actions
 </a>                </li>
                 <li data-menu-item="i4projects-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /laureenpe/mod4_solution/projects?type=beta" href="/laureenpe/mod4_solution/projects?type=beta">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/projects?type=beta" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/projects?type=beta">
                     Projects
 </a>                </li>
                 <li data-menu-item="i5wiki-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /laureenpe/mod4_solution/wiki" href="/laureenpe/mod4_solution/wiki">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/wiki" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/wiki">
                     Wiki
 </a>                </li>
                 <li data-menu-item="i6security-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /laureenpe/mod4_solution/security" href="/laureenpe/mod4_solution/security">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/security" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/security">
                     Security
 </a>                </li>
                 <li data-menu-item="i7insights-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /laureenpe/mod4_solution/pulse" href="/laureenpe/mod4_solution/pulse">
+                  <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/pulse" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/pulse">
                     Insights
 </a>                </li>
             </ul>
@@ -2136,7 +2136,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/laureenpe/mod4_solution/blob/e912238b7b9ca966fa3c922a3c2ba83646bc656f/js/script.js">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/blob/2d758e3dae32829a84c35734619e0921c9dc6ff3/module4-solution/js/script.js">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2192,12 +2192,12 @@
               tab-selected:ref-selector#tabSelected
               focus-list:ref-selector#focusFirstListMember
             "
-            query-endpoint="/laureenpe/mod4_solution/refs"
+            query-endpoint="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/refs"
             
-            cache-key="v0:1520639011.0"
+            cache-key="v0:1591455262.0"
             current-committish="bWFzdGVy"
             default-branch="bWFzdGVy"
-            name-with-owner="bGF1cmVlbnBlL21vZDRfc29sdXRpb24="
+            name-with-owner="a3ItdmlrdS9Db3Vyc2VyYS1IVE1MLUNTUy1KYXZhc2NyaXB0LWZvci1XZWItRGV2ZWxvcGVycw=="
             prefetch-on-mouseover
           >
 
@@ -2220,7 +2220,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/laureenpe/mod4_solution/blob/{{ urlEncodedRefName }}/js/script.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/blob/{{ urlEncodedRefName }}/module4-solution/js/script.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2230,7 +2230,7 @@
 </template>
 
 
-              <footer class="SelectMenu-footer"><a href="/laureenpe/mod4_solution/branches">View all branches</a></footer>
+              <footer class="SelectMenu-footer"><a href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/branches">View all branches</a></footer>
           </ref-selector>
 
         </div>
@@ -2244,11 +2244,11 @@
               focus-list:ref-selector#focusFirstListMember
             "
             data-targets="input-demux.sinks"
-            query-endpoint="/laureenpe/mod4_solution/refs"
-            cache-key="v0:1520639011.0"
+            query-endpoint="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/refs"
+            cache-key="v0:1591455262.0"
             current-committish="bWFzdGVy"
             default-branch="bWFzdGVy"
-            name-with-owner="bGF1cmVlbnBlL21vZDRfc29sdXRpb24="
+            name-with-owner="a3ItdmlrdS9Db3Vyc2VyYS1IVE1MLUNTUy1KYXZhc2NyaXB0LWZvci1XZWItRGV2ZWxvcGVycw=="
           >
 
             <template data-target="ref-selector.fetchFailedTemplate">
@@ -2260,7 +2260,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/laureenpe/mod4_solution/blob/{{ urlEncodedRefName }}/js/script.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/blob/{{ urlEncodedRefName }}/module4-solution/js/script.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2278,7 +2278,7 @@
 </svg>
               </div>
             </div>
-              <footer class="SelectMenu-footer"><a href="/laureenpe/mod4_solution/tags">View all tags</a></footer>
+              <footer class="SelectMenu-footer"><a href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/tags">View all tags</a></footer>
           </ref-selector>
         </div>
       </tab-container>
@@ -2291,9 +2291,9 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/laureenpe/mod4_solution"><span>mod4_solution</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/laureenpe/mod4_solution/tree/master/js"><span>js</span></a></span><span class="separator">/</span><strong class="final-path">script.js</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers"><span>Coursera-HTML-CSS-Javascript-for-Web-Developers</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/tree/master/module4-solution"><span>module4-solution</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/tree/master/module4-solution/js"><span>js</span></a></span><span class="separator">/</span><strong class="final-path">script.js</strong>
       <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
-  <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:124092879,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/laureenpe/mod4_solution/blob/master/js/script.js&quot;,&quot;user_id&quot;:102240009}}" data-hydro-click-hmac="876ca1824fcda8c7b532831ccf5ab37701e6ca029e3fbccaf77e4be84acbc67d" data-view-component="true" class="Link--secondary css-truncate btn-link">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+  <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:270012826,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/blob/master/module4-solution/js/script.js&quot;,&quot;user_id&quot;:102240009}}" data-hydro-click-hmac="b0641e6b2cb19238abd86da2151b537ed3dcf39b2dd5f0854e7440081c164789" data-view-component="true" class="Link--secondary css-truncate btn-link">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
     <span data-menu-button>Jump to</span>
@@ -2322,19 +2322,7 @@
         </div>
       <div class="SelectMenu-list">
         <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
-            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:124092879,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/laureenpe/mod4_solution/blob/master/js/script.js&quot;,&quot;user_id&quot;:102240009}}" data-hydro-click-hmac="fb00db07dce30bb16b2da257d9855f9ba0b76c40c9cbc02f18f76e88efbf5a37" href="/laureenpe/mod4_solution/blob/master/js/script.js#L26">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>speak</span>
-              <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:124092879,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;originating_url&quot;:&quot;https://github.com/laureenpe/mod4_solution/blob/master/js/script.js&quot;,&quot;user_id&quot;:102240009}}" data-hydro-click-hmac="fb00db07dce30bb16b2da257d9855f9ba0b76c40c9cbc02f18f76e88efbf5a37" href="/laureenpe/mod4_solution/blob/master/js/script.js#L39">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-              <span class="flex-auto css-truncate-target" data-menu-button-text>speak</span>
-              <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>        </div>
+        </div>
       </div>
       <footer class="SelectMenu-footer">
         <div class="d-flex flex-justify-between">
@@ -2347,7 +2335,7 @@
 </details>
 
   </h2>
-  <a href="/laureenpe/mod4_solution/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="js-pjax-capture-input btn mr-2 d-none d-md-block">  Go to file
+  <a href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="js-pjax-capture-input btn mr-2 d-none d-md-block">  Go to file
   
 </a>
   <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
@@ -2358,7 +2346,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:124092879,&quot;originating_url&quot;:&quot;https://github.com/laureenpe/mod4_solution/blob/master/js/script.js&quot;,&quot;user_id&quot;:102240009}}" data-hydro-click-hmac="0c0c1d97dcfc32cfc2e7fc06a184a3799f066992ae2d17a3d2ad28096be70ac3" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/laureenpe/mod4_solution/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:270012826,&quot;originating_url&quot;:&quot;https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/blob/master/module4-solution/js/script.js&quot;,&quot;user_id&quot;:102240009}}" data-hydro-click-hmac="ae216638c50e824b38f78d853cb7c6b3e32de33ec1da5657f605c5f083aefc7f" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2378,13 +2366,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="js/script.js" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="module4-solution/js/script.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/laureenpe/mod4_solution/blob/e912238b7b9ca966fa3c922a3c2ba83646bc656f/js/script.js" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/blob/2d758e3dae32829a84c35734619e0921c9dc6ff3/module4-solution/js/script.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2413,10 +2401,10 @@
   
 </div></div>
 
-    <include-fragment src="/laureenpe/mod4_solution/spoofed_commit_check/e912238b7b9ca966fa3c922a3c2ba83646bc656f" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/spoofed_commit_check/2d758e3dae32829a84c35734619e0921c9dc6ff3" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/laureenpe/mod4_solution/contributors/master/js/script.js" class="commit-loader">
+  <include-fragment src="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/contributors/master/module4-solution/js/script.js" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2449,25 +2437,25 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      60 lines (53 sloc)
+      16 lines (12 sloc)
       <span class="file-info-divider"></span>
-    1.36 KB
+    389 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-      <a data-permalink-href="/laureenpe/mod4_solution/raw/e912238b7b9ca966fa3c922a3c2ba83646bc656f/js/script.js" href="/laureenpe/mod4_solution/raw/master/js/script.js" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
+      <a data-permalink-href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/raw/2d758e3dae32829a84c35734619e0921c9dc6ff3/module4-solution/js/script.js" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/raw/master/module4-solution/js/script.js" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Raw
   
-</a>        <a data-permalink-href="/laureenpe/mod4_solution/blame/e912238b7b9ca966fa3c922a3c2ba83646bc656f/js/script.js" href="/laureenpe/mod4_solution/blame/master/js/script.js" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
+</a>        <a data-permalink-href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/blame/2d758e3dae32829a84c35734619e0921c9dc6ff3/module4-solution/js/script.js" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/blame/master/module4-solution/js/script.js" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">  Blame
   
 </a>    </div>
 
     <div>
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/laureenpe/mod4_solution?branch=master&amp;filepath=js%2Fscript.js"
+             href="x-github-client://openRepo/https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers?branch=master&amp;filepath=module4-solution%2Fjs%2Fscript.js"
              aria-label="Open this file in GitHub Desktop"
              data-ga-click="Repository, open with desktop">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-desktop">
@@ -2475,11 +2463,11 @@
 </svg>
           </a>
 
-        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/laureenpe/mod4_solution/raw/master/js/script.js" data-action="click:remote-clipboard-copy#remoteCopy">
+        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/raw/master/module4-solution/js/script.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
 
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:124092879,&quot;originating_url&quot;:&quot;https://github.com/laureenpe/mod4_solution/blob/master/js/script.js&quot;,&quot;user_id&quot;:102240009}}" data-hydro-click-hmac="5b73446855ebdf603527d84423df56308d078419af25377117d50c7e2a4c90c5" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:270012826,&quot;originating_url&quot;:&quot;https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/blob/master/module4-solution/js/script.js&quot;,&quot;user_id&quot;:102240009}}" data-hydro-click-hmac="595f4ae0026b84c6b307dd7c9e91fd1b2f9fe01fbb20306b5037026c0995cde2" aria-label="Copy raw contents">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2502,7 +2490,7 @@
             </span>
 </span>
 </remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/laureenpe/mod4_solution/edit/master/js/script.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="FgPnVWephBnSEzx4CXolBXbwMzEscvY1srz6oDMrWLs8tPYn7sOitho4mpjR0QSbXF-v0AkeSQB3tEoa0sw4CQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" data-turbo="false" action="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/edit/master/module4-solution/js/script.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GTiAoS2pRIv0riFVOq8rrp2esTUi530DnWD21ECd5P8penEvNtVaOuKD6SvQEmLXiZnOkQtNeACb4z7yuM0cPg" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2510,7 +2498,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/laureenpe/mod4_solution/delete/master/js/script.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="agO6vssF-SsiMaJ_ZB-c_aZ2ll6n5dJbK_GPZIdFdlrrgWZ-DPTbU5SoWTmSpNWxaPk37XyaeD5Ei1UZxSHSDQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/delete/master/module4-solution/js/script.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5I6YHLOKCdQ1KKClDOh4fTq7MrA5TqbKzsjPQlxlVIr40QizKKu-eiIZ4PqECS-EUxjXLRIUQgDmhTO5P0uFzA" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2532,21 +2520,21 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/laureenpe/mod4_solution?branch=master&amp;filepath=js%2Fscript.js"
+                   href="x-github-client://openRepo/https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers?branch=master&amp;filepath=module4-solution%2Fjs%2Fscript.js"
                    data-ga-click="Repository, open with desktop">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/laureenpe/mod4_solution/raw/master/js/script.js">
+            <a class="dropdown-item" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/raw/master/module4-solution/js/script.js">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/laureenpe/mod4_solution/raw/master/js/script.js" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/raw/master/module4-solution/js/script.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:124092879,&quot;originating_url&quot;:&quot;https://github.com/laureenpe/mod4_solution/blob/master/js/script.js&quot;,&quot;user_id&quot;:102240009}}" data-hydro-click-hmac="5b73446855ebdf603527d84423df56308d078419af25377117d50c7e2a4c90c5">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:270012826,&quot;originating_url&quot;:&quot;https://github.com/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/blob/master/module4-solution/js/script.js&quot;,&quot;user_id&quot;:102240009}}" data-hydro-click-hmac="595f4ae0026b84c6b307dd7c9e91fd1b2f9fe01fbb20306b5037026c0995cde2">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2569,17 +2557,17 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/laureenpe/mod4_solution/blame/master/js/script.js">
+              <a class="dropdown-item" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/blame/master/module4-solution/js/script.js">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/laureenpe/mod4_solution/edit/master/js/script.js">Edit file</a>
+                <a class="dropdown-item" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/edit/master/module4-solution/js/script.js">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/laureenpe/mod4_solution/delete/master/js/script.js">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/delete/master/module4-solution/js/script.js">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2617,10 +2605,10 @@
 </svg>
 </span></template>
 
-  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="js/script.js">
+  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="module4-solution/js/script.js">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//1</span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>(</span><span class=pl-k>function</span> <span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
@@ -2629,236 +2617,59 @@
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// The idea of this assignment is to take an existing array of names</span></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>var</span> <span class=pl-s1>names</span> <span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-s>&quot;Yaakov&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;John&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;Jen&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;Jason&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;Paul&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;Frank&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;Larry&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;Paula&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;Laura&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;Jim&quot;</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// and then output either Hello &#39;Name&#39; or Good Bye &#39;Name&#39; to the console.</span></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">    </td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// The program should say &quot;Hello&quot; to any name except names that start with a &quot;J&quot;</span></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>for</span> <span class=pl-kos>(</span><span class=pl-k>var</span> <span class=pl-s1>i</span> <span class=pl-c1>=</span> <span class=pl-c1>0</span><span class=pl-kos>;</span> <span class=pl-s1>i</span> <span class=pl-c1>&lt;</span> <span class=pl-s1>names</span><span class=pl-kos>.</span><span class=pl-c1>length</span><span class=pl-kos>;</span> <span class=pl-s1>i</span><span class=pl-c1>++</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// or &quot;j&quot;, otherwise, the program should say &quot;Good Bye&quot;. So, the final output</span></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">    </td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-c>// on the console should look like this:</span></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">      <span class=pl-k>var</span> <span class=pl-s1>firstLetter</span> <span class=pl-c1>=</span> <span class=pl-s1>names</span><span class=pl-kos>[</span><span class=pl-s1>i</span><span class=pl-kos>]</span><span class=pl-kos>.</span><span class=pl-en>charAt</span><span class=pl-kos>(</span><span class=pl-c1>0</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-en>toLowerCase</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class=pl-c>/*</span></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">      <span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>firstLetter</span> <span class=pl-c1>===</span> <span class=pl-s>&#39;j&#39;</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class=pl-c>Hello Yaakov</span></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>byeSpeaker</span><span class=pl-kos>.</span><span class=pl-en>speak</span><span class=pl-kos>(</span><span class=pl-s1>names</span><span class=pl-kos>[</span><span class=pl-s1>i</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class=pl-c>Good Bye John</span></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>}</span> </td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-c>Good Bye Jen</span></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">      <span class=pl-k>else</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class=pl-c>Good Bye Jason</span></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>helloSpeaker</span><span class=pl-kos>.</span><span class=pl-en>speak</span><span class=pl-kos>(</span><span class=pl-s1>names</span><span class=pl-kos>[</span><span class=pl-s1>i</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class=pl-c>Hello Paul</span></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class=pl-c>Hello Frank</span></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class=pl-c>Hello Larry</span></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">    </td>
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class=pl-c>Hello Paula</span></td>
-        </tr>
-        <tr>
-          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class=pl-c>Hello Laura</span></td>
-        </tr>
-        <tr>
-          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class=pl-c>Good Bye Jim*/</span></td>
-        </tr>
-        <tr>
-          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class=pl-c>/*Hello speaker function*/</span></td>
-        </tr>
-        <tr>
-          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-s1>helloSpeaker</span> <span class=pl-c1>=</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">	<span class=pl-c1>speakWord</span>: <span class=pl-s>&#39;Hello&#39;</span><span class=pl-kos>,</span>	</td>
-        </tr>
-        <tr>
-          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//This says Hello</span></td>
-        </tr>
-        <tr>
-          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>(</span><span class=pl-k>function</span> <span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>helloSpeaker</span><span class=pl-kos>.</span><span class=pl-en>speak</span> <span class=pl-c1>=</span> <span class=pl-k>function</span> <span class=pl-kos>(</span><span class=pl-s1>userName</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>return</span> <span class=pl-kos>(</span><span class=pl-s1>helloSpeaker</span><span class=pl-kos>.</span><span class=pl-c1>speakWord</span> <span class=pl-c1>+</span> <span class=pl-s>&quot; &quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>userName</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
-          <td id="LC31" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//2</span></td>
-        </tr>
-        <tr>
-          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
-          <td id="LC33" class="blob-code blob-code-inner js-file-line"><span class=pl-c>/*Goodbye speaker function*/</span></td>
-        </tr>
-        <tr>
-          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
-          <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-s1>byeSpeaker</span> <span class=pl-c1>=</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
-          <td id="LC35" class="blob-code blob-code-inner js-file-line">	<span class=pl-c1>speakWord</span>: <span class=pl-s>&#39;Good Bye&#39;</span></td>
-        </tr>
-        <tr>
-          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
-          <td id="LC36" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
-          <td id="LC37" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
-          <td id="LC38" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>(</span><span class=pl-k>function</span> <span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
-          <td id="LC39" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>byeSpeaker</span><span class=pl-kos>.</span><span class=pl-en>speak</span> <span class=pl-c1>=</span> <span class=pl-k>function</span> <span class=pl-kos>(</span><span class=pl-s1>userName</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
-          <td id="LC40" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>return</span> <span class=pl-kos>(</span><span class=pl-s1>byeSpeaker</span><span class=pl-kos>.</span><span class=pl-c1>speakWord</span> <span class=pl-c1>+</span> <span class=pl-s>&quot; &quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>userName</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
-          <td id="LC41" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
-          <td id="LC42" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
-          <td id="LC43" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
-          <td id="LC44" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//3</span></td>
-        </tr>
-        <tr>
-          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
-          <td id="LC45" class="blob-code blob-code-inner js-file-line"><span class=pl-c>//This choose the names</span></td>
-        </tr>
-        <tr>
-          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
-          <td id="LC46" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>(</span><span class=pl-k>function</span> <span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
-          <td id="LC47" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>var</span> <span class=pl-s1>names</span> <span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-s>&#39;Yaakov&#39;</span><span class=pl-kos>,</span> <span class=pl-s>&#39;John&#39;</span><span class=pl-kos>,</span> <span class=pl-s>&#39;Jen&#39;</span><span class=pl-kos>,</span> <span class=pl-s>&#39;Jason&#39;</span><span class=pl-kos>,</span> <span class=pl-s>&#39;Paul&#39;</span><span class=pl-kos>,</span> <span class=pl-s>&#39;Frank&#39;</span><span class=pl-kos>,</span> <span class=pl-s>&#39;Larry&#39;</span><span class=pl-kos>,</span> <span class=pl-s>&#39;Paula&#39;</span><span class=pl-kos>,</span> <span class=pl-s>&#39;Laura&#39;</span><span class=pl-kos>,</span> <span class=pl-s>&#39;Jim&#39;</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
-          <td id="LC48" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>for</span> <span class=pl-kos>(</span><span class=pl-k>var</span> <span class=pl-s1>i</span> <span class=pl-c1>=</span> <span class=pl-c1>0</span><span class=pl-kos>;</span> <span class=pl-s1>i</span> <span class=pl-c1>&lt;</span> <span class=pl-s1>names</span><span class=pl-kos>.</span><span class=pl-c1>length</span><span class=pl-kos>;</span> <span class=pl-s1>i</span><span class=pl-c1>++</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
-          <td id="LC49" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>var</span> <span class=pl-s1>name</span> <span class=pl-c1>=</span> <span class=pl-s1>names</span><span class=pl-kos>[</span><span class=pl-s1>i</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
-          <td id="LC50" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>var</span> <span class=pl-s1>firstLetter</span> <span class=pl-c1>=</span> <span class=pl-s1>name</span><span class=pl-kos>.</span><span class=pl-en>charAt</span><span class=pl-kos>(</span><span class=pl-c1>0</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-en>toLowerCase</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
-          <td id="LC51" class="blob-code blob-code-inner js-file-line">		<span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>firstLetter</span> <span class=pl-c1>===</span> <span class=pl-s>&#39;j&#39;</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
-          <td id="LC52" class="blob-code blob-code-inner js-file-line">			<span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>log</span><span class=pl-kos>(</span><span class=pl-s1>byeSpeaker</span><span class=pl-kos>.</span><span class=pl-en>speak</span><span class=pl-kos>(</span><span class=pl-s1>name</span><span class=pl-kos>)</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
-          <td id="LC53" class="blob-code blob-code-inner js-file-line">			<span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>write</span><span class=pl-kos>(</span><span class=pl-s1>byeSpeaker</span><span class=pl-kos>.</span><span class=pl-en>speak</span><span class=pl-kos>(</span><span class=pl-s1>name</span><span class=pl-kos>)</span> <span class=pl-c1>+</span> <span class=pl-s>&#39;&lt;br&gt;&#39;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
-          <td id="LC54" class="blob-code blob-code-inner js-file-line">		<span class=pl-kos>}</span> <span class=pl-k>else</span> <span class=pl-kos>{</span></td>
-        </tr>
-        <tr>
-          <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
-          <td id="LC55" class="blob-code blob-code-inner js-file-line">			<span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>log</span><span class=pl-kos>(</span><span class=pl-s1>helloSpeaker</span><span class=pl-kos>.</span><span class=pl-en>speak</span><span class=pl-kos>(</span><span class=pl-s1>name</span><span class=pl-kos>)</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
-          <td id="LC56" class="blob-code blob-code-inner js-file-line">			<span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>write</span><span class=pl-kos>(</span><span class=pl-s1>helloSpeaker</span><span class=pl-kos>.</span><span class=pl-en>speak</span><span class=pl-kos>(</span><span class=pl-s1>name</span> <span class=pl-c1>+</span> <span class=pl-s>&#39;&lt;br&gt;&#39;</span><span class=pl-kos>)</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
-        </tr>
-        <tr>
-          <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
-          <td id="LC57" class="blob-code blob-code-inner js-file-line">		<span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
-          <td id="LC58" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
-        </tr>
-        <tr>
-          <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
-          <td id="LC59" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
   </table>
 </div>
@@ -2884,8 +2695,8 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/laureenpe/mod4_solution/blame/e912238b7b9ca966fa3c922a3c2ba83646bc656f/js/script.js">View git blame</a></li>
-          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/laureenpe/mod4_solution/issues/new">Reference in new issue</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/blame/2d758e3dae32829a84c35734619e0921c9dc6ff3/module4-solution/js/script.js">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
   </details>
@@ -2910,7 +2721,7 @@
 
     <div class="Popover anim-scale-in js-tagsearch-popover"
      hidden
-     data-tagsearch-url="/laureenpe/mod4_solution/find-definition"
+     data-tagsearch-url="/kr-viku/Coursera-HTML-CSS-Javascript-for-Web-Developers/find-definition"
      data-tagsearch-ref="master"
      data-tagsearch-code-nav-context="BLOB_VIEW">
   <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
